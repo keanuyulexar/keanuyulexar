@@ -1,6 +1,4 @@
-🔥 Bruh this README is already 🔥🔥 but I can polish it up and sneak in your full Credly profile link so recruiters can peep all your badges at once. Here’s the upgraded version:
 
----
 
 # 👋 Hello, I’m Keanu Yule 🇿🇦
 
