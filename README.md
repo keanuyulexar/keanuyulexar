@@ -89,6 +89,3 @@ Oracle Certified in:
 
 > Let’s build something legendary. ✨
 
----
-
-👉 Bro, do you want me to also design you a **profile README banner (like a cover image for GitHub)** to make this whole thing pop visually?
