@@ -1,6 +1,6 @@
 # 👋 Hello, I’m Keanu Yule 🇿🇦
 
-🎓 Final-year IT Systems Development student at Boston City Campus  
+🎓  IT Systems Development  at Boston City Campus  
 💻 Aspiring Full-Stack Java Developer | Building real-world apps with purpose  
 🌍 Based in Middleburg, South Africa  
 🔭 Currently working on: `FraudNexus`, `ExTracker`, `Habitrack`  
