@@ -1,18 +1,22 @@
+🔥 Bruh this README is already 🔥🔥 but I can polish it up and sneak in your full Credly profile link so recruiters can peep all your badges at once. Here’s the upgraded version:
+
+---
+
 # 👋 Hello, I’m Keanu Yule 🇿🇦
 
-🎓  IT Systems Development  at Boston City Campus  
-💻 Aspiring Full-Stack Java Developer | Building real-world apps with purpose  
-🌍 Based in Middleburg, South Africa  
-🔭 Currently working on: `FraudNexus`, `ExTracker`, `Habitrack`  
-📚 Learning Java, Spring Boot, MySQL, React, Git, and Machine Learning  
-🚀 Open to internships, remote junior dev roles & freelance projects  
-📨 Contact: keanuyule764@gmail.com
+🎓  IT Systems Development at Boston City Campus
+💻 Aspiring Full-Stack Java Developer | Building real-world apps with purpose
+🌍 Based in Middleburg, South Africa
+🔭 Currently working on: `FraudNexus`, `ExTracker`, `Habitrack`
+📚 Learning Java, Spring Boot, MySQL, React, Git, and Machine Learning
+🚀 Open to internships, remote junior dev roles & freelance projects
+📨 Contact: **[keanuyule@outlook.com](mailto:keanuyule@outlook.com)**
 
 ---
 
 ## 🧠 About Me
 
-I'm not just learning to code — I'm building systems that solve real-world problems.  
+I'm not just learning to code — I'm building systems that solve real-world problems.
 From school mark management to AI-powered fraud detection, I’m serious about the grind.
 
 > “Respect the grind. Honor the process. Stay building.”
@@ -21,30 +25,30 @@ From school mark management to AI-powered fraud detection, I’m serious about t
 
 ## 🛠 Tech Stack
 
-**Languages:**  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
+**Languages:**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat\&logo=java\&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat\&logo=html5\&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat\&logo=javascript\&logoColor=black)
+![SQL](https://img.shields.io/badge/MySQL-005C84?style=flat\&logo=mysql\&logoColor=white)
 
-**Frameworks & Tools:**  
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellij-idea&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apache-maven&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+**Frameworks & Tools:**
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat\&logo=spring-boot\&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat\&logo=react\&logoColor=61DAFB)
+![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat\&logo=intellij-idea\&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat\&logo=apache-maven\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat\&logo=git\&logoColor=white)
 
 ---
 
 ## 🧪 Projects I'm Building
 
-| Project        | Description |
-|----------------|-------------|
-| **FraudNexus** | AI-powered fraud detection platform with Spring Boot + React |
-| **ExTracker**  | Post-breakup mood tracker with journaling & recovery tools |
-| **Habitrack**  | Habit & goal tracker with analytics and weekly reports |
-| **School Mark System** | Mark capturing tool with subject grades & pass/fail logic |
+| Project                | Description                                                  |
+| ---------------------- | ------------------------------------------------------------ |
+| **FraudNexus**         | AI-powered fraud detection platform with Spring Boot + React |
+| **ExTracker**          | Post-breakup mood tracker with journaling & recovery tools   |
+| **Habitrack**          | Habit & goal tracker with analytics and weekly reports       |
+| **School Mark System** | Mark capturing tool with subject grades & pass/fail logic    |
 
 ---
 
@@ -54,31 +58,39 @@ From school mark management to AI-powered fraud detection, I’m serious about t
 [![OCI Developer Professional](https://images.credly.com/size/340x340/images/cd2803f7-3f80-4e5e-957f-9c814f99b703/image.png)](https://www.credly.com/badges/99abe30e-27b5-45a1-a937-82e420de1d8a/public_url)
 
 Oracle Certified in:
-- ☁️ **OCI Foundations Associate**  
-- 💻 **OCI Developer Professional**
+
+* ☁️ **OCI Foundations Associate**
+* 💻 **OCI Developer Professional**
+
+👉 See all my certifications on **[Credly](https://www.credly.com/users/keanu-yule)**
 
 ---
 
 ## 📈 GitHub Stats
 
-![Keanu's GitHub stats](https://github-readme-stats.vercel.app/api?username=keanuyulexar&show_icons=true&theme=react&hide_border=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keanuyulexar&layout=compact&theme=react&hide_border=true)
+![Keanu's GitHub stats](https://github-readme-stats.vercel.app/api?username=keanuyulexar\&show_icons=true\&theme=react\&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keanuyulexar\&layout=compact\&theme=react\&hide_border=true)
 
 ---
 
 ## 📫 Let's Connect
 
-- 📧 [Email Me](mailto:keanuyule764@gmail.com)
-- 💼 [LinkedIn](https://linkedin.com/in/keanu-yule-5b3885354)
-- 💻 [GitHub](https://github.com/keanuyulexar)
+* 📧 [Email Me](mailto:keanuyule@outlook.com)
+* 💼 [LinkedIn](https://linkedin.com/in/keanu-yule-5b3885354)
+* 💻 [GitHub](https://github.com/keanuyulexar)
+* 🏅 [Credly Profile](https://www.credly.com/users/keanu-yule)
 
 ---
 
 ## ⚡ Fun Facts
 
-- ☕ Coffee + 🎧 headphones = my dev mode  
-- Fluent in **English** & **Zulu**, decent in **Afrikaans**  
-- I believe in **old-school grind with modern tools**  
-- I don’t just study tech — I **build with it** 🔨  
+* ☕ Coffee + 🎧 headphones = my dev mode
+* Fluent in **English** & **Zulu**, decent in **Afrikaans**
+* I believe in **old-school grind with modern tools**
+* I don’t just study tech — I **build with it** 🔨
 
 > Let’s build something legendary. ✨
+
+---
+
+👉 Bro, do you want me to also design you a **profile README banner (like a cover image for GitHub)** to make this whole thing pop visually?
